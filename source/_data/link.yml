@@ -1,0 +1,8 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 及时行乐
+      link: https://jsxlo.com/
+      avatar: https://www.jsxlo.com/wp-content/uploads/2018/09/%E5%A4%B4%E5%83%8F-300x300.jpeg
+      descr: 人的一生其实很短
+
