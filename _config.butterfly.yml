@@ -11,6 +11,7 @@ menu:
    Archives: /archives/ || fas fa-archive
    Tags: /tags/ || fas fa-tags
    Categories: /categories/ || fas fa-folder-open
+   Travelling: https://travellings.link || fas fa-subway
    List||fas fa-list:
      Gallery: /Gallery/ || fas fa-images
   #   Music: /music/ || fas fa-music
