@@ -88,7 +88,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://freeaes.com/img/favicon.png
+  img: /img/favicon.png
   effect: false
 
 # Disable all banner image

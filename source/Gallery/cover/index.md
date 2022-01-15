@@ -1,4 +1,6 @@
 {% gallery %}
+![](data/Life.jpg)
+![](data/DickDog.jpg)
 ![](data/0.jpg)
 ![](data/1.jpg)
 ![](data/2.jpg)
