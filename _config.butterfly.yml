@@ -14,6 +14,8 @@ menu:
    Travelling: https://travellings.link || fas fa-subway
    List||fas fa-list:
      Gallery: /Gallery/ || fas fa-images
+     LifeRestart: /Life/ || fas fa-users 
+     LickDog: /tiangou/ || fas fa-heart
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
    Link: /link/ || fas fa-link

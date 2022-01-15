@@ -1,5 +1,5 @@
 ---
-title: zhsl
+title: 人生重开｜LifeRestart
 date: 2022-01-15 12:05:58
 ---
 
@@ -11,4 +11,4 @@ ifm.height=document.documentElement.clientHeight-56;
 window.onresize=function(){changeFrameHeight();}
 $(function(){changeFrameHeight();});
 </script>
-<iframe id="mainiframe" frameborder="0" width="100%" height="720" src="/List/Life/view/index.html" scrolling="auto"></iframe>
+<iframe id="mainiframe" frameborder="0" width="100%" height="720" src="/List/Life/public/index.html" scrolling="auto"></iframe>

@@ -1,5 +1,5 @@
 ---
-title: LickDog
+title: 舔狗日记 | LickDog
 date: 2022-01-15 12:06:14
 cover: 
 ---
